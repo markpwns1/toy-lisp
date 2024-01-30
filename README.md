@@ -1,5 +1,5 @@
 # Toy Lisp
-Just something I made for fun. A dynamically typed, functional Lisp.
+Just something I made for fun one morning, not a serious thing. A regular old dynamically typed, functional Lisp.
 
 ## Features
 - Basic error reporting
